@@ -1,0 +1,2 @@
+Name: Molokiya, price = 80 grn, weight = 120g, expiration date: 40 days, creation date: 10.08.2021
+Name: Prosto, price = 90 grn, weight = 200g, expiration date: 20 days, creation date: 10.09.2021

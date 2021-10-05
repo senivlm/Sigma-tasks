@@ -1,0 +1,7 @@
+5
+Dairy_products Molokiya 80 120 40 10.08.2021
+Product Surprise 80 120 150 17.09.2021
+Dairy_products Radimo 100 210 70 3.10.2021
+Meat Pork 160 1000 200 4.10.2021 HighestGrade Pork
+Dairy_products Prosto 90 200 20 10.09.2021
+
