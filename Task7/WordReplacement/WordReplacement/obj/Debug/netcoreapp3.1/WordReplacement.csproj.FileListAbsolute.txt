@@ -1,0 +1,14 @@
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\bin\Debug\netcoreapp3.1\WordReplacement.exe
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\bin\Debug\netcoreapp3.1\WordReplacement.deps.json
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\bin\Debug\netcoreapp3.1\WordReplacement.runtimeconfig.json
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\bin\Debug\netcoreapp3.1\WordReplacement.runtimeconfig.dev.json
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\bin\Debug\netcoreapp3.1\WordReplacement.dll
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\bin\Debug\netcoreapp3.1\WordReplacement.pdb
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\obj\Debug\netcoreapp3.1\WordReplacement.csproj.AssemblyReference.cache
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\obj\Debug\netcoreapp3.1\WordReplacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\obj\Debug\netcoreapp3.1\WordReplacement.AssemblyInfoInputs.cache
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\obj\Debug\netcoreapp3.1\WordReplacement.AssemblyInfo.cs
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\obj\Debug\netcoreapp3.1\WordReplacement.csproj.CoreCompileInputs.cache
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\obj\Debug\netcoreapp3.1\WordReplacement.dll
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\obj\Debug\netcoreapp3.1\WordReplacement.pdb
+C:\Users\vvlad\Desktop\Sigma\Task7\WordReplacement\WordReplacement\obj\Debug\netcoreapp3.1\WordReplacement.genruntimeconfig.cache

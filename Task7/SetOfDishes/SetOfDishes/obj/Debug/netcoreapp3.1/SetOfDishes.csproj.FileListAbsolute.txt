@@ -1,0 +1,14 @@
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\bin\Debug\netcoreapp3.1\SetOfDishes.exe
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\bin\Debug\netcoreapp3.1\SetOfDishes.deps.json
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\bin\Debug\netcoreapp3.1\SetOfDishes.runtimeconfig.json
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\bin\Debug\netcoreapp3.1\SetOfDishes.runtimeconfig.dev.json
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\bin\Debug\netcoreapp3.1\SetOfDishes.dll
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\bin\Debug\netcoreapp3.1\SetOfDishes.pdb
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\obj\Debug\netcoreapp3.1\SetOfDishes.csproj.AssemblyReference.cache
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\obj\Debug\netcoreapp3.1\SetOfDishes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\obj\Debug\netcoreapp3.1\SetOfDishes.AssemblyInfoInputs.cache
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\obj\Debug\netcoreapp3.1\SetOfDishes.AssemblyInfo.cs
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\obj\Debug\netcoreapp3.1\SetOfDishes.csproj.CoreCompileInputs.cache
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\obj\Debug\netcoreapp3.1\SetOfDishes.dll
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\obj\Debug\netcoreapp3.1\SetOfDishes.pdb
+C:\Users\vvlad\Desktop\Sigma\Task7\SetOfDishes\SetOfDishes\obj\Debug\netcoreapp3.1\SetOfDishes.genruntimeconfig.cache
