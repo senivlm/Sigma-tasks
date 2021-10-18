@@ -11,7 +11,7 @@ namespace WordReplacement
         {
             get { return wordsDictionary; }
         }
-
+Хардкод!
         public WordReplacer()
         {
             wordsDictionary = new Dictionary<string, string>();
@@ -50,6 +50,8 @@ namespace WordReplacement
                         {
                             Console.WriteLine($"There is no such word in the dictionary, write translation of this word - {words[wordsNumber]}:");
                             string word = Console.ReadLine();
+                            А якщо користувач ввів enter
+                                
                             for (int j = 0; j < word.Length; ++j)
                             {
                                 if (!Char.IsLetter(word[j]))
