@@ -6,7 +6,7 @@ using System.Text;
 namespace SetOfDishes
 {
     class ListOfProducts
-    {
+    {Не зрозуміли умову задачі. 
         private Product[] products;
 
         public Product this[int i]
