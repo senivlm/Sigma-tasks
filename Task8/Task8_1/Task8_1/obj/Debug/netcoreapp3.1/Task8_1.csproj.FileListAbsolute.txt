@@ -1,0 +1,14 @@
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\bin\Debug\netcoreapp3.1\Task8_1.exe
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\bin\Debug\netcoreapp3.1\Task8_1.deps.json
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\bin\Debug\netcoreapp3.1\Task8_1.runtimeconfig.json
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\bin\Debug\netcoreapp3.1\Task8_1.runtimeconfig.dev.json
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\bin\Debug\netcoreapp3.1\Task8_1.dll
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\bin\Debug\netcoreapp3.1\Task8_1.pdb
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\obj\Debug\netcoreapp3.1\Task8_1.csproj.AssemblyReference.cache
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\obj\Debug\netcoreapp3.1\Task8_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\obj\Debug\netcoreapp3.1\Task8_1.AssemblyInfoInputs.cache
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\obj\Debug\netcoreapp3.1\Task8_1.AssemblyInfo.cs
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\obj\Debug\netcoreapp3.1\Task8_1.csproj.CoreCompileInputs.cache
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\obj\Debug\netcoreapp3.1\Task8_1.dll
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\obj\Debug\netcoreapp3.1\Task8_1.pdb
+C:\Users\vvlad\Desktop\Sigma\Task8\Task8_1\Task8_1\obj\Debug\netcoreapp3.1\Task8_1.genruntimeconfig.cache
