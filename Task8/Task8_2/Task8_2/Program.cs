@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace Task8_2
 {
     class Program
-    {
+    {Знову з ООП біда. Ці методи треба було або додавати до Storage з іншою сигнатурою, або створювати інший клас для роботи з 2 сутностями.
         static List<Product> CommonProducts(Storage firstStorage, Storage secondStorage)
         {
             List<Product> result = new List<Product>();
@@ -29,7 +29,7 @@ namespace Task8_2
             return result;
         }
         static List<Product> UniqueProductsInFirstStorage(Storage firstStorage, Storage secondStorage)
-        {
+        {Для унікальних елементів треба працювати з множинами!!!
             List<Product> result = new List<Product>();
             Dictionary<string, Product> uniqueProductsInFirstStorage = new Dictionary<string, Product>();
             for (int i = 0; i < firstStorage.Products.Count; ++i)
