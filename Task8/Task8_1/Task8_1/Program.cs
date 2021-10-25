@@ -9,6 +9,7 @@ namespace Task8_1
         {
             Console.WriteLine(a);
         }
+        Сигнатура методу мала б бути не така.  Мав прийти ще компаратор. Тоді в самому методі не було б ніяких приведень до типів. Це дає змогу реалізувати універсальність. Для порівняння використали б метод компаратора 
         static int SortingProductsByName(object firstObject, object secondObject)
         {
             if ((firstObject is Product firstProduct) && (secondObject is Product secondProduct))
