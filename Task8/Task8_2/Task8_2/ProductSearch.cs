@@ -5,7 +5,7 @@ using System.Text;
 namespace Task8_2
 {
     class ProductSearch
-    {
+    {тут невдало використано делегат
         public delegate List<Product> FindProducts(Storage firstStorage, Storage secondStorage);
 
         private FindProducts del;
