@@ -23,7 +23,7 @@ namespace Task8_1
                 {
                     flag = false;
                     for (int j = 0; j < objects.Length - 1; ++j)
-                    {
+                    {Що буде з дочірніми типами. І що ми хочемо отримати, якщо прийдуть різнотипові об'єкти?
                         if (objects[j].GetType() == objects[j + 1].GetType())
                         {
                             if (sortingTwoObjects(objects[j], objects[j + 1]) > 0)
