@@ -6,7 +6,7 @@ using System.Text;
 namespace Task8_3
 {
     class TextReader
-    {
+    {ви не враховуєте повністю умову задачі
         private string[] tapes;
         private string[] sentences;
 
@@ -91,7 +91,7 @@ namespace Task8_3
                 for (int  u = 0; u < tapes[i].Length; ++u)
                 {
                     if (tapes[i][u] != '.')
-                    {
+                    { При такому варіанті string дуже затратний. Краще використовувати StringBuilder.
                         sentences[j] += tapes[i][u];
                     }
                     else
