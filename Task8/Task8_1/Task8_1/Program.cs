@@ -40,7 +40,7 @@ namespace Task8_1
             list.Add(new Product("Water", 15, 900, 270, "30.09.2021"));
             list.Add(new Product("Apple", 30, 800, 50, "17.10.2021"));
             list.Add(new Product("Bounty", 70, 90, 220, "08.09.2021"));
-
+Можна скористатись готовим методом ToArray
             Product[] array = new Product[list.Count];
             for (int i = 0; i < array.Length; ++i)
             {
