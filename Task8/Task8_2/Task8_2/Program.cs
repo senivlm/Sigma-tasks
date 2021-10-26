@@ -31,6 +31,7 @@ namespace Task8_2
         static List<Product> UniqueProductsInFirstStorage(Storage firstStorage, Storage secondStorage)
         {
             List<Product> result = new List<Product>();
+            Чому б не використати множини для цієї задачі? Типовий варіант.
             Dictionary<string, Product> uniqueProductsInFirstStorage = new Dictionary<string, Product>();
             for (int i = 0; i < firstStorage.Products.Count; ++i)
             {
