@@ -6,7 +6,7 @@ using System.Text;
 namespace Task9
 {
     class Storage
-    {
+    {// делегати можна описувати зовні класів
         public delegate void LogIncorrectInput(string message, string path);
         public delegate Product CorrectInput(Product product, string mistake);
         public delegate void LogExpiredProducts(List<Product> list, string path);
@@ -360,7 +360,7 @@ namespace Task9
                 OnCorrectDataProduct?.Invoke(product, "weight");
             }
             else if (weight <= 0)
-            {
+            {// Не деталізована інформація про те, в якому об'єкті не коректна ситуація
                 OnLogIncorrectInfoToFile?.Invoke($"Incorrect product weight: {weightStr}", @"./output.txt");
                 OnCorrectDataProduct?.Invoke(product, "weight");
             }
